@@ -91,7 +91,7 @@ multiplier_str = "Enter a number as the multiplier: "
 for number_x in range(1, 11):
     for number_y in range(1):
         # Add code to print the multiplication table
-        print()
+        print("hi")
         
         pass
     pass
